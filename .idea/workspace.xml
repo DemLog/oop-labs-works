@@ -4,39 +4,243 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8364d666-9f6b-4315-94fd-3c2886a143db" name="Changes" comment="" />
+    <list default="true" id="70856a56-b594-4d1e-8b99-9d8db7297ca3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/site/dlsky/lab08/messenger/Messenger.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OrInsoXNc4VBS1cXbBmG4Ho9Xq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/DemLoveSky/IdeaProjects/oop-labs-works/src/test/java",
+    "last_opened_file_path": "C:/Users/DemLoveSky/IdeaProjects/oop-labs-works",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DemLoveSky\IdeaProjects\oop-labs-works\src\main\java\site\dlsky\lab07" />
+      <recent name="C:\Users\DemLoveSky\IdeaProjects\oop-labs-works\src\main\java\site\dlsky\lab04\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task01Main">
+    <configuration name="Lucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="site.dlsky.lab11.Lucky" />
+      <module name="oop-labs-works" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="site.dlsky.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="site.dlsky.lab09.Main" />
+      <module name="oop-labs-works" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="site.dlsky.lab09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task01Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="site.dlsky.lab07.task01.src.com.example.task01.Task01Main" />
+      <module name="oop-labs-works" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="site.dlsky.lab07.task01.src.com.example.task01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="site.dlsky.lab10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="site.dlsky.lab10.Main" />
+      <module name="oop-labs-works" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="site.dlsky.lab10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop-labs-works" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="site.dlsky.lab12.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="site.dlsky.lab12.test.java" />
+      <option name="MAIN_CLASS_NAME" value="site.dlsky.lab12.test.java.IntegerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task01Main" />
+        <item itemvalue="JUnit.IntegerTest" />
+        <item itemvalue="Application.Lucky" />
+        <item itemvalue="Application.site.dlsky.lab10.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8364d666-9f6b-4315-94fd-3c2886a143db" name="Changes" comment="" />
-      <created>1682311005484</created>
+      <changelist id="70856a56-b594-4d1e-8b99-9d8db7297ca3" name="Changes" comment="" />
+      <created>1682312445451</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1682311005484</updated>
-      <workItem from="1682311005484" duration="20000" />
+      <updated>1682312445451</updated>
+      <workItem from="1682312446827" duration="6064000" />
+      <workItem from="1682318967347" duration="14874000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab04/components/Frame.java</url>
+          <line>12</line>
+          <properties class="site.dlsky.lab04.components.Frame" method="calculate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab04/components/HorizontalLayout.java</url>
+          <line>13</line>
+          <properties class="site.dlsky.lab04.components.HorizontalLayout" method="calculate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab04/components/Rectangle.java</url>
+          <line>10</line>
+          <properties class="site.dlsky.lab04.components.Rectangle" method="calculate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab04/components/Text.java</url>
+          <line>10</line>
+          <properties class="site.dlsky.lab04.components.Text" method="calculate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab04/components/VerticalLayout.java</url>
+          <line>25</line>
+          <properties class="site.dlsky.lab04.components.VerticalLayout" method="calculate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab04/components/Frame.java</url>
+          <line>19</line>
+          <properties class="site.dlsky.lab04.components.Frame" method="draw">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab04/components/Text.java</url>
+          <line>16</line>
+          <properties class="site.dlsky.lab04.components.Text" method="draw">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab10/Main.java</url>
+          <line>82</line>
+          <properties class="site.dlsky.lab10.Main" method="getTexts">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/main/java/site/dlsky/lab10/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
